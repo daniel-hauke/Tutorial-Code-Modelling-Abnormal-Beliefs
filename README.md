@@ -1,6 +1,7 @@
-MATLAB code accompanying the Modeling Abnormal Beliefs tutorial
+MATLAB code accompanying the "Modeling Abnormal Beliefs" tutorial
 ===============
-This code runs on MATLAB R2020a.
+This code runs on MATLAB R2020a. Please, make sure that you have Matlab up and running.
+
 
 Getting Started
 ---------------
@@ -10,6 +11,7 @@ git clone --recursive https://github.com/Murdugan/Tutorial-Code-Modelling-Abnorm
 ```
 2. Open Matlab and navigate to the kcni-school-lessons/day6 folder.
 3. Set your environment by running `'kcni_setup_paths'`
+
 
 Tutorial: Modeling Abnormal Beliefs
 ------------
@@ -28,6 +30,7 @@ Assignments
 	
 	c. Could you obtain similar belief trajectories using a different set of parameters?
 
-Aknowldgments
+
+Acknowledgements
 ------------
 This code is part of the Krembil Centre for Neuroinformatics Summerschool 2021 code that is also made available under: https://github.com/krembilneuroinformatics/kcni-school-lessons.git
