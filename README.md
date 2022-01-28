@@ -1,4 +1,4 @@
-MATLAB code accompanying the "Modeling Abnormal Beliefs" tutorial
+MATLAB code accompanying the "Modelling Abnormal Beliefs" tutorial
 ===============
 This code runs on MATLAB R2020a. Please, make sure that you have Matlab up and running.
 
@@ -13,7 +13,7 @@ git clone https://github.com/Murdugan/Tutorial-Code-Modelling-Abnormal-Beliefs.g
 3. Set your environment by running `'kcni_setup_paths'`
 
 
-Tutorial: Modeling Abnormal Beliefs
+Tutorial: Modelling Abnormal Beliefs
 ------------
 1. Set your environment using `'kcni_setup_paths'`
 2. Part 1: First steps with the HGF: Run `'HGF_tutorial_generate_task'` section by section (you can do so by clicking in the corresponding section of the script and clicking the 'Run and Advance' Button at the top of the Matlab window next to the green triangle labelled 'Run').
