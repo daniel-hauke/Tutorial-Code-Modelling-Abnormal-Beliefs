@@ -22,7 +22,7 @@ Tutorial: Modelling Abnormal Beliefs
 
 Assignments
 ------------
-1. Use the HGF tutorial code to generate a specific subtype of a clinical condition that you would like to model (for example, MDD or Schizophrenia) reflecting.
+1. Use the HGF tutorial code to generate a specific subtype of a clinical condition that you would like to model (for example, MDD or Schizophrenia).
 
 	a. What clinical condition do you want to simulate?
 	
