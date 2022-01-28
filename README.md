@@ -5,9 +5,9 @@ This code runs on MATLAB R2020a. Please, make sure that you have Matlab up and r
 
 Getting Started
 ---------------
-1.  Please, clone this repository recursively. Otherwise, you will not have all the necessary toolboxes to run the code. You can do so using the following command:
+1.  Please, clone this repository. You can do so using the following command:
 ```
-git clone --recursive https://github.com/Murdugan/Tutorial-Code-Modelling-Abnormal-Beliefs.git
+git clone https://github.com/Murdugan/Tutorial-Code-Modelling-Abnormal-Beliefs.git
 ```
 2. Open Matlab and navigate to the Tutorial-Code-Modelling-Abnormal-Beliefs folder.
 3. Set your environment by running `'kcni_setup_paths'`
