@@ -30,16 +30,16 @@ warning off; % to remove obvious path warnings for now
 % add project path with all sub-paths
 addpath(genpath(pathProject));
 
-
-%% remove SPM subfolder paths 
-% NOTE: NEVER add SPM with subfolders to your path, since it creates
-% conflicts with Matlab core functions, e.g., uint16
-
-pathSpm = fileparts(which('spm'));
-% remove subfolders of SPM, since it is recommended,
-% and fieldtrip creates conflicts with Matlab functions otherwise
-rmpath(genpath(pathSpm));
-addpath(pathSpm);
-dmpad_setup_spm();
-
-warning on
+% 
+% %% remove SPM subfolder paths 
+% % NOTE: NEVER add SPM with subfolders to your path, since it creates
+% % conflicts with Matlab core functions, e.g., uint16
+% 
+% pathSpm = fileparts(which('spm'));
+% % remove subfolders of SPM, since it is recommended,
+% % and fieldtrip creates conflicts with Matlab functions otherwise
+% rmpath(genpath(pathSpm));
+% addpath(pathSpm);
+% dmpad_setup_spm();
+% 
+% warning on
