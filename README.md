@@ -7,7 +7,7 @@ Getting Started
 ---------------
 1.  Please, clone this repository. You can do so using the following command:
 ```
-git clone https://github.com/Murdugan/Tutorial-Code-Modelling-Abnormal-Beliefs.git
+git clone https://github.com/daniel-hauke/Tutorial-Code-Modelling-Abnormal-Beliefs.git
 ```
 2. Open Matlab and navigate to the Tutorial-Code-Modelling-Abnormal-Beliefs folder.
 3. Set your environment by running `'kcni_setup_paths'`
